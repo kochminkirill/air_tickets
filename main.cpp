@@ -1,7 +1,6 @@
 #include <iostream>
 #include "ticketlist.h"
 
-
 void interface()
 {
     TicketList list;
